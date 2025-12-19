@@ -10,7 +10,7 @@ import Kiwi from '../assets/img/kiwi.jpeg';
 import Orange from '../assets/img/orange.jpg';
 import Pomegranate from '../assets/img/pomegranate.jpeg';
 import Pumpkin from '../assets/img/pumpkin.jpg';
-import Strawberry from '../assets/img/Strawberry.jpg';
+import Strawberry from '../assets/img/strawberry.jpg';
 import Tomato from '../assets/img/tomato.jpg';
 import Footer from "../components/Footer";
 
