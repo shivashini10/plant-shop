@@ -17,7 +17,7 @@ import Footer from "../components/Footer";
 function Shop() {
   const [qty, setQty] = useState(Array(12).fill(0));
 
-  const cartControls = (i) =>
+  const cartControls = (i:any) =>
     qty[i] === 0 ? (
       <button
         type="button"
